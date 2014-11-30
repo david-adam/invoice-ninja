@@ -22,6 +22,7 @@
     "handsontable": "*"
   },
   "resolutions": {
-    "jquery": "~1.11"
+    "jquery": "~1.11",
+    "datatables": "~1.*"
   }
 }
